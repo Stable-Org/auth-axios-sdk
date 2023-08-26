@@ -1,6 +1,6 @@
 {
   "name": "@stable-org/auth-axios-sdk",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "OpenAPI client for @stable-org/auth-axios-sdk",
   "author": "OpenAPI-Generator Contributors",
   "repository": {
