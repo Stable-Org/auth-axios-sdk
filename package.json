@@ -1,11 +1,11 @@
 {
   "name": "@stable-org/auth-axios-sdk",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "OpenAPI client for @stable-org/auth-axios-sdk",
   "author": "OpenAPI-Generator Contributors",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Stable-Org/auth-axios-sdk.git"
+    "url": "https://github.com/stable-org/auth-axios-sdk.git"
   },
   "keywords": [
     "axios",
